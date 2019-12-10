@@ -1,3 +1,5 @@
+**Warning** This repository will be archived soon, please use https://github.com/Kentico/kontent-sample-app-preview-react to access up-to-date code
+
 # cloud-sample-app-preview-react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
